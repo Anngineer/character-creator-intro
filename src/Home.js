@@ -56,7 +56,7 @@ const Home = () => {
         {linkVisible && (
           <div className="linkButtonContainer">
             <Button
-              href="https://google.com"
+              href="https://anngineer.github.io/character-creator/"
               className="linkButton"
               color="orange"
             >
