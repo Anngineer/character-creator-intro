@@ -44,6 +44,9 @@ const Home = () => {
     <div className="greetings-section">
       <img src={waveflip} className="frank" alt="" />
       <div className="dialogue-box">
+        {!backButtonVisible && (
+          <div className="space-box" style={{ width: "2rem" }}></div>
+        )}
         {backButtonVisible && (
           <button className="back-button" onClick={() => handleBackButton()}>
             <img src={backwardgray} className="button-image" alt="backward" />
