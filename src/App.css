@@ -117,6 +117,10 @@ body {
   font-size: 1rem;
 }
 
+.dialogue-box p {
+  margin: 0;
+}
+
 @media (min-width: 800px) {
   .dialogue-box {
     width: 500px;
