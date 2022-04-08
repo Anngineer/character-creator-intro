@@ -78,6 +78,14 @@ body {
   top: 4rem;
 }
 
+@media (max-height: 450px) {
+  .frank {
+    width: 9rem;
+    top: 4rem;
+    left: 4rem;
+  }
+}
+
 @media (min-width: 800px) {
   .frank {
     width: 18rem;

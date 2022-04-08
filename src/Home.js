@@ -69,6 +69,9 @@ const Home = () => {
             <img src={forward} className="button-image" alt="forward" />
           </button>
         )}
+        {!nextButtonVisible && (
+          <div className="space-box" style={{ width: "2rem" }}></div>
+        )}
       </div>
     </div>
   );
