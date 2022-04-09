@@ -15,7 +15,7 @@ const Backend = {
     },
     {
       key: 5,
-      text: "We're working in the 5th Edition of Dungeons and Dragons, so that means awesome magic creatures.",
+      text: "We're working in the 5th Edition of Dungeons and Dragons, so that means awesome magical creatures.",
     },
     {
       key: 6,
@@ -23,11 +23,11 @@ const Backend = {
     },
     {
       key: 7,
-      text: "And I, a wizard NPC (Non Player Character) will poof into existance on top of your table.",
+      text: "And I, a wizard NPC (Non Player Character), will poof into existance on top of your table.",
     },
     {
       key: 8,
-      text: "I'll be babbling about a vicious rabbit and quest to save the realms.",
+      text: "I'll be babbling about a vicious rabbit and a quest to save the realms.",
     },
     {
       key: 9,
