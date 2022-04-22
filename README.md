@@ -4,7 +4,7 @@ This repository contains a dialogue-focused introduction to the character-creato
 
 ## Details
 
-This project was built with React components in VSCode using HTML, SCSS/CSS, vanilla JavaScript, and JSX. Mock-ups for the design were sketched using InVision Studio. The character, background image, and arrow images are licensed from Envato Elements.
+This project was built with React components in VSCode using HTML, SCSS/CSS, vanilla JavaScript, JSX, and the Semantic UI React framework. Mock-ups for the design were sketched using InVision Studio. The character, background image, and arrow images are licensed from Envato Elements.
 
 ## Contact
 
