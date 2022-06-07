@@ -1,5 +1,7 @@
 # character-creator-intro
 
+Deploy link : [Character Creator Intro](https://anngineer.github.io/character-creator-intro/).
+
 This repository contains a dialogue-focused introduction to the character-creator page.
 
 ## Details
@@ -8,4 +10,4 @@ This project was built with React components in VSCode using HTML, SCSS/CSS, van
 
 ## Contact
 
-Please feel free to view more projects in the [portfolio](https://mathmythica.com/) or contact Anngineer@gmail.com in regard to my work or future projects.
+Please feel free to view more projects in the [portfolio](https://anngineer.com/) or contact Anngineer@gmail.com in regard to my work or future projects.
